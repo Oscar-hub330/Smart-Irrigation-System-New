@@ -1,5 +1,20 @@
 {
+  "name": "smart-irrigation-system",
+  "version": "1.0.0",
+  "description": "Smart Irrigation System frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
   "dependencies": {
-    "axios": "^1.9.0"
-  }
+    "axios": "^1.6.0",
+    "bootstrap": "^5.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0",
+    "react-scripts": "5.0.1"
+  },
+  "author": "Oscar Madalane",
+  "license": "MIT"
 }
